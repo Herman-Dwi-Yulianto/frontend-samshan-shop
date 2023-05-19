@@ -1,0 +1,20 @@
+import React from "react";
+import Hero from "../components/Hero";
+import NavigationBar from "../components/NavigationBar";
+import AboutImg from "../images/abt.jpg"
+
+const About = () => {
+  return (
+    <>
+      <NavigationBar />
+      <Hero
+        cName="hero-mid"
+        heroImg={AboutImg}
+        title="About"
+        btnClass="hide"
+      />
+    </>
+  );
+};
+
+export default About;
