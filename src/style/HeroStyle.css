@@ -22,7 +22,7 @@ img {
 
 .hero-text {
   position: absolute;
-  top: 55%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
@@ -71,3 +71,8 @@ img {
     font-size: 1rem;
   }
 }
+
+  .teksjudul {
+     margin: 20px 200px;
+  text-align: center;
+  }
