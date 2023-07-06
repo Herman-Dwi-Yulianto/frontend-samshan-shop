@@ -4,6 +4,7 @@ import Hero from "../components/Hero";
 import Footer from "../components/Footer";
 import IsiHome from "../components/IsiHome";
 import waves from "../images/waves.png"
+import Produk from "../components/Produk";
 
 
 const Home = () => {
@@ -11,16 +12,17 @@ const Home = () => {
     <>
       <NavigationBar />
       <Hero
-        cName="hero"
-        heroImg={waves}
-        title="Selamat Datang Di"
-        title2="Samshan Shop Kaos Polos"
-        text="Chose Your favorite T-shirt"
-        buttonText="Swipe Up"
-        url="/"
-        btnClass="show"
+        // cName="hero"
+        // heroImg={waves}
+        // title="Selamat Datang Di"
+        // title2="Samshan Shop Kaos Polos"
+        // text="Chose Your favorite T-shirt"
+        // buttonText="Swipe Up"
+        // url="/"
+        // btnClass="show"
       />
       <IsiHome />
+      <Produk />
       <Footer />
     </>
   );

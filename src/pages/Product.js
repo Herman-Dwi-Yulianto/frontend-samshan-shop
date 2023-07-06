@@ -1,12 +1,10 @@
-import React from "react";
+import React, { useState } from "react";
 import NavigationBar from "../components/NavigationBar";
 
 const Product = () => {
   return (
     <>
-      <div>
-        <NavigationBar />
-      </div>
+    <NavigationBar />
     </>
   );
 };

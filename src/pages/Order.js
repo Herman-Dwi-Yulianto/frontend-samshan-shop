@@ -1,9 +1,9 @@
 import React from "react";
+import NavigationBar from "../components/NavigationBar";
 
 const Order = () => {
   return (
     <div>
-      <h1>This is Order Page</h1>
     </div>
   )
 }

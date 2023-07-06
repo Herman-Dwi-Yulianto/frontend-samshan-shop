@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
+import React, {useState} from 'react';
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import Product from "./pages/Product";
@@ -7,7 +8,8 @@ import Artikel from "./pages/Artikel";
 import Order from "./pages/Order";
 import About from "./pages/About";
 
-function App() {
+const App =() =>{
+
   return (
     <div className="App">
       <Router>

@@ -1,11 +1,9 @@
 import React from "react";
+import Hero from "../components/Hero";
 
 const Artikel = () => {
-  return (
-      <div>
-        <h1>This is Artikel Page</h1>
-      </div>
-  )
-}
+  return <>
+  </>;
+};
 
-export default Artikel
+export default Artikel;
