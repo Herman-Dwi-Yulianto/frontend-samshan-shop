@@ -4,6 +4,7 @@ import NavigationBar from "../components/NavigationBar";
 const Order = () => {
   return (
     <div>
+      <NavigationBar/>
     </div>
   )
 }

@@ -7,18 +7,19 @@ import "../style/IsiHomeStyle.css"
 
 const IsiHome = () =>{
     return (
-      <div className="isihome">
-        <h1>Headline</h1>
-        <p>Apa keuntungan belanja di SAMSHAN SHOP?</p>
+      <div className="isihome" id="hero">
+        <h1>Ekspresikan Kreativitasmu dengan Kaos Polos Tanpa Batas!</h1>
 
         <div className="first-des">
           <div className="des-text">
-            <h2>Taal Volcano, Batangas</h2>
+            <h2>Desain. Ungkapkan. Inspirasi</h2>
             <p>
-              one of the most iconic views in luzon, mt.tall boast a volcano one
-              of the most iconic views in luzon, mt.tall boast a volcanoone of
-              the most iconic views in luzon, mt.tall boast a volcanoone of the
-              most iconic views in luzon, mt.tall boast a volcano
+              Selamat datang di destinasi online kami untuk kaos polos, tempat
+              imajinasimu menjadi pusat perhatian. Temukan kebebasan untuk
+              mendesain, mengungkapkan, dan menginspirasi dengan koleksi kaos
+              polos berkualitas tinggi. Apakah Anda seorang seniman, penggemar
+              mode, atau seseorang yang mencari pakaian serba guna, kaos polos
+              kami memberikan landasan sempurna untuk berekspresi diri
             </p>
           </div>
 

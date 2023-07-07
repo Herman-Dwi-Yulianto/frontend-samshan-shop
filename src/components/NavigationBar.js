@@ -28,7 +28,7 @@ class NavigationBar extends Component {
               </li>
             );
           })}
-          <button className="btnNav">Sign Up</button>
+          <button className="btnNav">Log in</button>
         </ul>
       </nav>
     );

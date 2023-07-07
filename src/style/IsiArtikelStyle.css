@@ -1,17 +1,19 @@
-.isihome {
-  margin: 4rem 6rem;
+.isiartikel {
+  margin: 7rem 6rem;
   text-align: center;
 }
 
-.isihome h1 {
+.isiartikel h1 {
   font-size: 3rem;
   font-weight: bold;
 }
-.isihome h2 {
-  font-weight: bold;
+
+.isiartikel h2{
+    font-weight: bold;
 }
-.isihome p {
-  text-align: justify;
+
+.isiartikel p{
+    text-align: justify;
 }
 
 .first-des {
@@ -20,6 +22,14 @@
   justify-content: space-between;
   margin-top: 4.5rem;
 }
+.first-des-reverse {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 4.5rem;
+}
+
 
 .des-text {
   width: 45%;

@@ -12,39 +12,39 @@ const Hero = () => {
         <div className="carousel-item" interval={1000}>
           <img className="d-block w-100" src={slide1} alt="First slide" />
           <div className="carousel-caption">
-              <h3>Selamat Datang di Samshan Shop</h3>
-              <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-              <p>
-                <a href="#" class="btn btn-warning mt-3">
-                  Selengkapnya
-                </a>
-              </p>
+            <h3>Selamat Datang di Samshan Shop</h3>
+            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+            <p>
+              <a href="#hero" class="btn btn-warning mt-3">
+                Selengkapnya
+              </a>
+            </p>
           </div>
         </div>
         <div className="carousel-item" interval={1000}>
           <img className="d-block w-100" src={slide2} alt="Second slide" />
           <div className="carousel-caption">
-              <h3>Selamat Datang di Samshan Shop</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-              <p>
-                <a href="#" class="btn btn-warning mt-3">
-                  Selengkapnya
-                </a>
-              </p>
+            <h3>Selamat Datang di Samshan Shop</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>
+              <a href="#hero" class="btn btn-warning mt-3">
+                Selengkapnya
+              </a>
+            </p>
           </div>
         </div>
         <div className="carousel-item" interval={1000}>
           <img className="d-block w-100" src={slide3} alt="Third slide" />
           <div className="carousel-caption">
-              <h3>Selamat Datang di Samshan Shop</h3>
-              <p>
-                Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-              </p>
-              <p>
-                <a href="#" class="btn btn-warning mt-3">
-                  Selengkapnya
-                </a>
-              </p>
+            <h3>Selamat Datang di Samshan Shop</h3>
+            <p>
+              Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+            </p>
+            <p>
+              <a href="#hero" class="btn btn-warning mt-3">
+                Selengkapnya
+              </a>
+            </p>
           </div>
         </div>
       </Carousel>

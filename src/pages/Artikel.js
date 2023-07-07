@@ -1,9 +1,17 @@
 import React from "react";
-import Hero from "../components/Hero";
+import NavigationBar from "../components/NavigationBar";
+import IsiArtikel from "../components/IsiArtikel";
+import Footer from "../components/Footer";
+
 
 const Artikel = () => {
-  return <>
-  </>;
+  return (
+    <>
+      <NavigationBar />
+      <IsiArtikel />
+      <Footer/>
+    </>
+  );
 };
 
 export default Artikel;

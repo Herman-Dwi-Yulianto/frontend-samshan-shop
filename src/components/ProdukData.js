@@ -97,7 +97,7 @@ const  ProdukData = (props) => {
                         scrambled it to make a type specimen book. It has
                         survived not only five centuries,
                       </p>
-                      <h6 className="text-lg font-semibold">$ 199.00</h6>
+                      <h6 className="text-lg font-semibold">$ 999</h6>
                       <div className="flex flex-row items-center gap-4">
                         <div class="flex ml-6 items-center">
                           <span class="mr-3 text-lg font-semibold">Size</span>
